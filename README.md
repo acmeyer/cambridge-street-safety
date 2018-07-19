@@ -4,7 +4,7 @@ A look at street safety in Cambridge, MA.
 
 ## How to Use
 
-Under the `docs/` directory, you will also find the website code for the interactive map of the data.
+Under the `docs/` directory, you will also find the website code for the interactive map of the data. You can also view the site here: https://acmeyer.github.io/cambridge-street-safety/docs/.
 
 ## City of Cambridge Data
 
