@@ -8,9 +8,11 @@ If you want to replicate my findings or otherwise explore the data on your own, 
 
 Under the `docs/` directory, you will also find the website code for the interactive map of the data. You can also view the site here: https://acmeyer.github.io/cambridge-street-safety.
 
-## City of Cambridge Data
+## Data
 
 All data for this project can be found on the City of Cambridge's open data website found here: http://data.cambridgema.gov/.
+
+The two datasets used in this project are located here: https://data.cambridgema.gov/Public-Safety/Police-Department-Crash-Data-Historical/ybny-g9cv and here: https://data.cambridgema.gov/Public-Safety/Police-Department-Crash-Data-Updated/gb5w-yva3.
 
 ## License
 
