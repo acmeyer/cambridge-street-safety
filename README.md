@@ -2,11 +2,14 @@
 
 A look at street safety in Cambridge, MA.
 
+* [Interactive Map](https://acmeyer.github.io/cambridge-street-safety)
+* [Slides](https://www.slideshare.net/AlexMeyer1/a-look-at-street-safety-in-cambridge-massachusetts)
+
 ## How to Use
 
 If you want to replicate my findings or otherwise explore the data on your own, you'll need to have python (v3+), numpy, pandas, ggplot, and jupyter installed on your machine. Then run `jupyter notebook` inside this directory.
 
-Under the `docs/` directory, you will also find the website code for the interactive map of the data. You can also view the site here: https://acmeyer.github.io/cambridge-street-safety.
+Under the `docs/` directory, you will also find the website code for the interactive map of the data.
 
 ## Data
 
