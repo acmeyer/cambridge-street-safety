@@ -2,6 +2,7 @@
 
 A look at street safety in Cambridge, MA.
 
+* [Blog Post](https://medium.com/p/11d5281b6014)
 * [Interactive Map](https://acmeyer.github.io/cambridge-street-safety)
 * [Slides](https://www.slideshare.net/AlexMeyer1/a-look-at-street-safety-in-cambridge-massachusetts)
 
